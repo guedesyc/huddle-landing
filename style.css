@@ -1,0 +1,29 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+:root{
+    --cor1: hsl(257, 40%, 49%);
+    --cor2: hsl(300, 69%, 71%);
+
+}
+
+h1{
+    font-family: 'Poppins', Arial, sans-serif;
+    font-weight: 600;
+    text-align: center;
+    
+
+}
+h6{
+    font-family: 'Poppins', Arial, sans-serif;
+    font-weight: 400;
+}
+.fundo{
+    background-color: var(--cor1);
+    background-image: ;
+    margin: 0px;
+}
+.conteiner{
+    
+}
