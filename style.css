@@ -8,22 +8,23 @@
 
 }
 
+body{
+    margin: auto;
+}
+
 h1{
     font-family: 'Poppins', Arial, sans-serif;
     font-weight: 600;
     text-align: center;
-    
+    position: absolute;
+    margin: 100%;
 
 }
 h6{
     font-family: 'Poppins', Arial, sans-serif;
     font-weight: 400;
 }
-.fundo{
-    background-color: var(--cor1);
-    background-image: ;
-    margin: 0px;
-}
-.conteiner{
-    
+
+nav > .image{
+    position: relative;
 }
